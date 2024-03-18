@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: spring-using-logback
+logging:
+  level:
+    root: debug
